@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">32sp</dimen>
+    
+    <dimen name="text_md">16sp</dimen>
+    
+    <dimen name="margin_xlrg">32dp</dimen>
+    <dimen name="margin_lrg">24dp</dimen>
+    <dimen name="margin_md">16dp</dimen>
+    <dimen name="margin_sm">8dp</dimen>
+    <dimen name="margin_xsm">4dp</dimen>
+
+    <dimen name="five">5dp</dimen>
+    <dimen name="two">2dp</dimen>
+    <dimen name="three_two">32dp</dimen>
+</resources>

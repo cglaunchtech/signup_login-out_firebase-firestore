@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SignUp and LoginIn</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="about">About Me</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="cancel">Cancel</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="not_registered">Not Registered Yet?</string>
+    <string name="create">Create an Account</string>
+</resources>
